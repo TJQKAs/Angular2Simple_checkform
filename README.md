@@ -1,7 +1,7 @@
 #Angular2-input form
 
 ## Description
-Simple form confirmation of input data based on Angular2, which was created after watching videos of  Max Schwarzmüller.   [here](https://angular.io/docs/ts/latest/quickstart.html).
+Simple form confirmation of input data based on Angular2[here](https://angular.io/docs/ts/latest/quickstart.html), which was created after watching videos of  Max Schwarzmüller [here](http://www.youtube.com/watch?v=S1cQkAu0gtE&list=PL55RiY5tL51olfU2IEqr455EYLkrhmh3n).   
 ## Usage
 Typescript and npm has to be installed on your machine!
 
@@ -17,9 +17,8 @@ npm install
 ```
 npm start
 ```
-![screen1](www/img/hothotcold.png)
-
-![screen2](www/img/hothotcoldScreenshot.png)
+![screen1]()
+![screen2]()
 
 ## Technologies Used
 
