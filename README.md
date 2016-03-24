@@ -17,8 +17,7 @@ npm install
 ```
 npm start
 ```
-![Screenshot 1](https://github.com/TJQKAs/Angular2Simple_checkform/blob/master/src/img/02.png?raw=true=100)[Screenshot-1]
-![Screenshot 2](https://github.com/TJQKAs/Angular2Simple_checkform/blob/master/src/img/04.png?raw=true=100)[Screenshot-2]
+![Screenshot](https://github.com/TJQKAs/Angular2Simple_checkform/blob/master/src/img/04.png=100)[Screenshot-1]
 ## Technologies Used
 
 - Typescript
