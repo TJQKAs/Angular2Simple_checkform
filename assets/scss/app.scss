@@ -1,0 +1,31 @@
+body {
+  padding: 32px;
+  margin: 32px;
+  font-family: "Roboto", Arial, sans-serif;
+  font-size: 12px;
+  background-color: rgb(208, 249, 249);
+}
+.container{
+  padding: 16px;
+  border: 2px solid rgb(2, 31, 88);
+  background: rgb(90, 81, 147);
+  margin-bottom: 40px;
+}
+button{
+  padding: 5px 10px;
+  border: solid 4px rgb(13, 207, 131);
+  background-color: rgb(33, 159, 2);
+  border-radius: 5px;
+  cursor:default;
+}
+button:not([disabled]){
+  cursor: pointer;
+}
+
+button:not([disabled]):hover {
+  background-color: rgb(235, 76, 87);
+  color:rgb(156, 131, 8);
+}
+.highlight{
+  font-weight: bold;
+}
